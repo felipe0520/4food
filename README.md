@@ -8,7 +8,7 @@ Implementação de um app funcional baseado no modelo do ifood
 
 http://labenufourfood.surge.sh/
 
-> Status do Projeto: Concluido :heavy_check_mar
+> Status do Projeto: Concluido :heavy_check_mark:
 
 ### Principais tecnologias utilizadas:
 
