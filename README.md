@@ -44,4 +44,10 @@ Instale as dependências :
 ```npm install ```
 
 Execute a aplicação:
+
 ```npm start ```
+
+
+## Gif da aplicação funcionando abaixo:
+
+![](gif/exemple.gif)
