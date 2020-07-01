@@ -17,6 +17,7 @@ http://labenufourfood.surge.sh/
 3. Redux
 4. Axios
 5. Redux-Thunk
+6. Material-ui
 
 
 ## Como rodar a aplicação 
