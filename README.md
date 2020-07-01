@@ -17,7 +17,17 @@ http://labenufourfood.surge.sh/
 3. Redux
 4. Axios
 5. Redux-Thunk
-6. Material-ui
+
+## Requisitos:
+
+Deverá ser feito o front-end de  uma aplicação web, funcional tendo:
+
+1. Formulários com validações
+2. Autenticação
+3. 6. Uso de bibliotecas de UI (MaterialUI)
+4. Estilização Avançada com CSS
+5. Aplicações com múltiplas rotas utilizando React Router
+6. Respeitar o layout providenciado
 
 
 ## Como rodar a aplicação 
