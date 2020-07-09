@@ -57,16 +57,12 @@ Execute a aplicação:
 ![](gif/exemple.gif)
 
 ## Contribuidores
-[<img src="https://avatars3.githubusercontent.com/u/59846340?s=400&u=cb097d69eba8545f1d4ac03b754089500d52e9bf&v=" width=115 > <br> <sub>  Eduardo Costa </sub>](https://github.com/EloisaFagundes) || :---: |  
+[<img src="https://avatars3.githubusercontent.com/u/59846340?s=400&u=cb097d69eba8545f1d4ac03b754089500d52e9bf&v=" width=115 > <br> <sub>  Eduardo Costa </sub>](https://github.com/EloisaFagundes) ||
 
 
-[<img src="https://avatars1.githubusercontent.com/u/24879021?s=400&u=96e0d2417f7231cea3d1f70eaeb068ce26295a1c&v=" width=115 > <br> <sub>  Mackson Welton </sub>](https://github.com/MacksonWelton) |
-| :---: |  [<img src="https://avatars1.githubusercontent.com/u/24879021?s=400&u=96e0d2417f7231cea3d1f70eaeb068ce26295a1c&v=" width=115 > <br> <sub>  Mackson Welton </sub>](https://github.com/MacksonWelton) |
-| :---: |  
 
+[<img src="https://avatars0.githubusercontent.com/u/59846713?s=400&v=" width=115 > <br> <sub> Eduardo Costa </sub>](https://github.com/EduCosta85) 
 
-[<img src="https://avatars0.githubusercontent.com/u/59846713?s=400&v=" width=115 > <br> <sub> Eduardo Costa </sub>](https://github.com/EduCosta85) |
-| :---: |  
 
 
 
