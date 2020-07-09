@@ -58,10 +58,7 @@ Execute a aplicação:
 
 ## Contribuidores
 
-<img src="https://avatars0.githubusercontent.com/u/59846713?s=400&v=4" width=115 > <br> <sub> 
-Eduardo Costa</sub>https://github.com/EduCosta85|
-| :---: |  
-
 [<img src="https://avatars0.githubusercontent.com/u/59846713?s=400&v=" width=115 > <br> <sub>  Eduardo Costa </sub>](https://github.com/EduCosta85) |
 | :---: |  
+
 
