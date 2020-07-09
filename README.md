@@ -58,7 +58,8 @@ Execute a aplicação:
 
 ## Contribuidores
 
-img src="https://avatars3.githubusercontent.com/u/59846340?s=460&u=cb097d69eba8545f1d4ac03b754089500d52e9bf&v=4" width=115 > <br> <sub> 
+<img src="https://avatars3.githubusercontent.com/u/59846340?s=400&u=cb097d69eba8545f1d4ac03b754089500d52e9bf&v=4" width=115 > <br> <sub> 
 Eloísa Faguntes</sub>https://github.com/EloisaFagundes|
 | :---: |  
+
 
