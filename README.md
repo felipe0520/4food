@@ -59,14 +59,7 @@ Execute a aplicação:
 ## Contribuidores
 [<img src="https://avatars3.githubusercontent.com/u/59846340?s=400&u=cb097d69eba8545f1d4ac03b754089500d52e9bf&v=" width=115 > <br> <sub>  Eloisa Faguntes </sub>](https://github.com/EloisaFagundes)
 
-[<img src="https://avatars0.githubusercontent.com/u/59846713?s=400&v=" width=115 > <br> <sub> Eduardo Costa </sub>](https://github.com/EduCosta85) || :---: |  
-
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
-| :---: |  
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
-| :---: |  
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
-| :---: |  
+[<img src="https://avatars0.githubusercontent.com/u/59846713?s=400&v=" width=115 > <br> <sub> Eduardo Costa </sub>](https://github.com/EduCosta85)
 
 
 
